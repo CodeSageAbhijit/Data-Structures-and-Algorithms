@@ -19,6 +19,7 @@ int main(int argc, char *argv[])
         // Get the current argument
         char *abc = argv[i];
 
+        
         // Dynamically allocate memory for a new node
         node *n = malloc(sizeof(node));
 
