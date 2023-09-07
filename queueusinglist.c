@@ -100,4 +100,5 @@ int main(void) {
     } while (choice != 4);
 
     return 0; // Return 0 to indicate successful execution
+    ClearQueue();
 }
