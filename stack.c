@@ -76,7 +76,7 @@ int main() {
                 break;
             case 4:
                 peek();
-                break;
+                
         }
 
     } while (n != 5);
