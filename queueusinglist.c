@@ -100,7 +100,8 @@ int main(void) {
     } while (choice != 4);
 
     
+    
+    //Function to return the memory to the OS(i.e, deallocation of memory)
     ClearQueue();
-    //    To return the memory to the OS(i.e, deallocation of memory)
     return 0; // Return 0 to indicate successful execution
 }
