@@ -56,7 +56,7 @@ void insertatposition(char x, int position) {
         printf("malloc fails");
     }
 
-    while (i < position) {
+    while (i < position -1) {
         temp = temp->next;
         i++;
     }
