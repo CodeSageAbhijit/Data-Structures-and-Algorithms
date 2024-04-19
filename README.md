@@ -1,6 +1,6 @@
 # Data-Structures
 
-# Data Structures Journey with Abhijit Kad
+# Data Structures Journey with THE Abhijit Kad
 
 Hello there! My name is Abhijit Kad, and this repository documents my journey learning data structures. Here, you'll find all of my code implementations based on the subject of data structures, all written in the C programming language.
 
